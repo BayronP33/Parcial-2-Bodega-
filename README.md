@@ -1,9 +1,6 @@
 
 
 
-![Captura de pantalla 2025-02-11 203450](https://github.com/user-attachments/assets/fcdbe92d-cb66-485c-9a86-2c4e5a77f0af)
-====================================================================
-![Captura de pantalla 2025-02-11 203513](https://github.com/user-attachments/assets/8214a4af-5338-4324-b5af-4fae60f9b51f)
 ====================================================================
 ![Captura de pantalla 2025-02-11 203558](https://github.com/user-attachments/assets/3570b6aa-2097-4114-945a-0f86512bf6bb)
 ====================================================================
