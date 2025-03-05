@@ -1,8 +1,4 @@
-Documento Explicativo: https://drive.google.com/file/d/1_GV-dEIHiwydi6kwJRhhVIcw-21iayAa/view?usp=sharing 
-====================================================================
-Demostración de casos de uso CRUD (local):
-====================================================================
-![Captura de pantalla 2025-02-11 203141](https://github.com/user-attachments/assets/a2afc8a7-8f72-45cd-bd9c-4f14d2cd9d2b)
+
 ====================================================================
 ![Captura de pantalla 2025-02-11 203250](https://github.com/user-attachments/assets/70040a8b-b92a-4105-8dce-1bde406753bd)
 ====================================================================
